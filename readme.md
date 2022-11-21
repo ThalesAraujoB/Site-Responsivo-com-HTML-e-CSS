@@ -1,1 +1,1 @@
-Projeto de criação de site completo com responsividade em dispoitivos mobile. 
+Projeto de criação de site completo com responsividade em dispositivos mobile. 
